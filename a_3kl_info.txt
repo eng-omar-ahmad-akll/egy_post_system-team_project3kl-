@@ -1,0 +1,8 @@
+team name : 3kl team
+team members : 
+1-omar ahmed akl(leader and designer).
+2-sara Yasser (idea owner and progect activity)
+3-mohamed metwally(database)
+4-reham el-saeed(data link)
+5-samar el-sayed(logical(the code part))
+team contact (the leader): 01010016759,01014947877
